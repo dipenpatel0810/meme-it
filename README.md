@@ -1,3 +1,8 @@
+## Meme-It
+
+A simple react app which retrieves the trending meme templates through which one woule be able to create the meme.
+imgFlip API (https://api.imgflip.com/) is used to retrieve the memes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
